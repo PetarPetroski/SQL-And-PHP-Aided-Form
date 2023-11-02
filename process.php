@@ -21,10 +21,8 @@
         require 'connect.php';
         ?>
         <section class="buttons">
-            <button id="receptionistsButton">Show Receptionists</button>
-            <button id="patientsButton">Show Patients</button>
-            <button id="medicalRecordsButton">Show Medical Records</button>
-            <button id="appointmentsButton">Show Appointments</button>
+            <button id="receptionistsButton">Doctor's Receptionist DB</button>
+            <button id="medicalRecordsButton">Patient Information DB</button>
         </section>
     </div>
 

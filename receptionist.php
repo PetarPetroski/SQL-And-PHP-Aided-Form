@@ -50,7 +50,7 @@
         ?>
     </div>
     <section class="buttons">
-        <button class="homeButton">Home</button>
+        <button id="homeButton">Home</button>
     </section>
     <script src="script.js"></script>
 </body>
